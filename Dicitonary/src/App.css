@@ -1,0 +1,30 @@
+
+.btn {
+  background-color: #343a40;
+  color: #fff;
+  margin: 0 0.5rem;
+}
+.contain {
+  width: 100%;
+  text-align: center;
+  font-weight: bold;
+  font-size: 2rem;
+  padding: 1rem;
+  background-color: #007bff;
+  color: #fff;
+}
+.search {
+  font-size: 2rem;
+  text-transform: capitalize;
+  text-align: center;
+  font-weight: bold;
+  text-decoration: underline;
+  color: #fff;
+  background-color: #343a40;
+}
+.search_bar{
+  height: 2rem; 
+  border: none; 
+  padding: 0.5rem;
+  border-radius: 100%;
+}

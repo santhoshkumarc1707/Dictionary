@@ -1,0 +1,30 @@
+.container {
+  width: 100%;
+}
+.row {
+  background-color: rgb(114, 241, 144);
+}
+.div_cont {
+  width: 100%;
+  text-align: center;
+  text-transform: capitalize;
+  font-size: 16px;
+  font-weight: bold;
+  text-decoration: underline;
+  margin-bottom: 1rem;
+}
+.audio_cont {
+  color: rgb(241, 196, 196);
+  margin: 1.5rem;
+  text-align: center;
+  width: 83.33%;
+}
+.div {
+  width: 100%;
+  text-align: start;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  text-transform: capitalize;
+  font-size: 16px;
+  font-weight: bold;
+}
